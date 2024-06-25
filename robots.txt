@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://scortalewa.github.io/sitemap
+Sitemap: https://scortalewa.github.io/app/sitemap
+Sitemap: https://scortalewa.github.io/assets/sitemap
+Sitemap: https://scortalewa.github.io/css/sitemap
+Sitemap: https://scortalewa.github.io/includes/sitemap
+Sitemap: https://scortalewa.github.io/item/sitemap
+Sitemap: https://scortalewa.github.io/src/sitemap
